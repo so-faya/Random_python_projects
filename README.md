@@ -6,3 +6,5 @@ This repository will showcase various Python projects I’ll be working on over 
 Used conditional statement-if, elif and nested if 
 # Day_Four project Rock Paper Scissor game
 used list, random function and if statement
+# Day_Five Project Password generator
+There are two different solution. first solution - random funtion- random.sample and random.suffle, concatenation and join (to join items in the list.) Second solution - used for loop, append and suffle
