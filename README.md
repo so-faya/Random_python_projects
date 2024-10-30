@@ -10,3 +10,5 @@ used list, random function and if statement
 There are two different solution. first solution - random funtion- random.sample and random.suffle, concatenation and join (to join items in the list.) Second solution - used for loop, append and suffle
 # Day_10 Calculator
 Used dictionary, while loop and if statement 
+# Day_11 Blackjack game
+used list, if, elif statement, while loop, random, len()function, functions, and so on
