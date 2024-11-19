@@ -12,3 +12,4 @@ There are two different solution. first solution - random funtion- random.sample
 Used dictionary, while loop and if statement 
 # Day_11 Blackjack game
 used list, if, elif statement, while loop, random, len()function, functions, and so on
+Used conditional statement, while loop, random and scope
